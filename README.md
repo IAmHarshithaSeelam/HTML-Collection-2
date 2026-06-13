@@ -17,7 +17,7 @@ This repository contains my HTML Forms practice projects. The main goal of this 
 * `<button>`
 * Form validation using `required`
 
-### Table Concepts
+### Table and Nested Tables Concepts
 
 * `<table>`
 * `<tr>`
